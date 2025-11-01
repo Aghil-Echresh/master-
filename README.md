@@ -1,38 +1,38 @@
-# T-Header script
-This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlight plugins and terminal header with own name for TERMUX. 
-## Preview of after setup completed..
-<img src="https://user-images.githubusercontent.com/28594846/42722171-e92e650c-8764-11e8-8f65-76a318c1de27.jpeg" width="200" hight="220">
+# اسکریپت T-Header
+این اسکریپت Bash شامل Oh-My-Zsh With، پیشنهاد خودکار دستور، افزونه‌های هایلایت سینتکس و هدر ترمینال با نام مخصوص TERMUX است.
+## پیش‌نمایش پس از اتمام راه‌اندازی..
+<img src="https://user-images.githubusercontent.com/28594846/42722171-e92e650c-8764-11e8-8f65-76a318c1de27.jpeg" width="200" heightt="220">
 
-## This script contains popular features
+## این اسکریپت شامل ویژگی‌های محبوبی است
 
-- [x] oh-my-zsh themes
-- [x] zsh-autosuggest-command plugins
-- [x] zsh-syntax-highlighting plugins
-- [x] termux-banner
-- [x] PS1 with custom trim path indicator
-- [x] Custom prompt cursor
-- [ ] other (git prompt)
+- [x] تم‌های oh-my-zsh
+- [x] افزونه‌های zsh-autosuggest-command
+- [x] افزونه‌های برجسته‌سازی سینتکس zsh
+- [x] بنر ترموکس
+- [x] PS1 با نشانگر مسیر تریم سفارشی
+- [x] مکان‌نمای سفارشی
+- [ ] دیگر (دستور git)
 
-## Termux keyboard features with shortcuts
+## ویژگی‌های کیبورد ترموکس به همراه میانبرها
 
-- [x] open new session `CTRL + t`
-- [x] close terminal <sub><sub><img src="https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/keyboard/materialsymbolsoutlined/keyboard_20px.svg"></sub></sub> swipe up throughout that icon
-- [x] swich between two sessions `CTRL + 4` and `CTRL + 5`
-- [x] other shortcuts need video guide.
+- [x] باز کردن جلسه جدید `CTRL + t`
+- [x] بستن ترمینال <sub><sub><img src="https://raw.githubusercontent.com/google/material-design-icons/master/symbols/web/keyboard/materialsymbolsoutlined/keyboard_20px.svg"></sub></sub> در طول آن آیکون به بالا بکشید
+- [x] بین دو جلسه `CTRL + 4` و `CTRL + 5` جابجا شوید
+- [x] میانبرهای دیگر به راهنمای ویدیویی نیاز دارند.
 
-## Download and installation steps
-<img src="https://user-images.githubusercontent.com/28594846/42721978-6b90278c-8761-11e8-97f2-eca4f86e837f.jpeg" width="200" hight="220">
+## مراحل دانلود و نصب
+<img src="https://user-images.githubusercontent.com/28594846/42721978-6b90278c-8761-11e8-97f2-eca4f86e837f.jpeg" width="200" heightt="220">
 
 
-1. `apt update && yes | apt upgrade && apt update && apt install git -y`
-2. `git clone https://github.com/remo7777/T-Header.git`
-3. `cd T-Header/`
-4. `ls`
-5. `bash t-header.sh`
-6. after complete all processing just --open new session-- or `source ~/.zshrc`
-7. For remove tool `cd ~/T-header && bash t-header.sh --remove && exit`
+۱. `آپدیت apt && بله | آپگرید apt && آپدیت apt && نصب apt git -y`
+۲. `کلون گیت https://github.com/remo7777/T-Header.git`
+۳. سرتیتر T شکل cd/
+۴. «ls»
+۵. `bash t-header.sh`
+۶. پس از اتمام تمام پردازش‌ها، فقط کافیست دستور --open new session-- یا `source ~/.zshrc` را اجرا کنید.
+۷. برای حذف ابزار `cd ~/T-header && bash t-header.sh --remove && exit`
 #
-Video guide available on YouTube channel { [Remo773 T-Bag](https://youtu.be/8Duxj_-b4og) }
+راهنمای ویدیویی در کانال یوتیوب موجود است { [Remo773 T-Bag](https://youtu.be/8Duxj_-b4og) }
 
-if anybody have created video guide on YouTube then contact with me. i ll add channel link here. -my Telegram group link [Termux-New-User](https://t.me/joinchat/FY2amVKlBrBQIi3dT_lUug)
-## Don't try without cloning...
+اگر کسی در یوتیوب راهنمای ویدیویی ساخته است، با من تماس بگیرد. لینک کانال را اینجا اضافه خواهم کرد. - لینک گروه تلگرام من [کاربر جدید ترموکس](https://t.me/joinchat/FY2amVKlBrBQIi3dT_lUug)
+## بدون شبیه‌سازی امتحان نکنید...
